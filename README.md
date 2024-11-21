@@ -21,7 +21,7 @@ To use the code:
 1. Install Dart by following the instructions at [Dart Installation Guide](https://dart.dev/get-dart).
 2. Clone the repository:
 
-git clone https://github.com/your-username/Clean-Code-with-Dart.git
+git clone https://github.com/mmohammadmfallahm02/clean-code-with-dart.git
 
 
 3. Navigate to any exercise folder and run the Dart code.
